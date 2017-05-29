@@ -23,9 +23,4 @@ public interface LoginView {
      * @param messageResId resource id del error que se quiera mostrar
      */
     void setPasswordError(int messageResId);
-
-    /**
-     * ??
-     */
-    void successAction();
 }
